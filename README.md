@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oybek
-- 👀 I’m interested in Web-developing
-- 🌱 I’m currently learning Python and Swift
+- 😎 I’m Junior Software Engineer
+- 🌱 I’m currently learning DevOps Engineering
 - 📫 You can reach me at artikov1208@gmail.com
 
 <!---
