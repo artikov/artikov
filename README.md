@@ -1,7 +1,5 @@
 # Oybek Artikov
 
----
-
 - 😎 Software Engineer, from Tashkent
 - 💻 Working as a Freelance FrontEnd Developer
 - 👨🏻‍🎓 Graduated from Westminster International University, major Business with Information Systems
@@ -62,15 +60,13 @@
 
 ## Socials
 
-<div align = "center">
-  <a href="https://facebook.com/artikov08"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/></a>
-  <a href="https://linkedin.com/in/artikov"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
-  <a href="https://instagram.com/artikxv"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
-  <a href="https://twitter.com/artikov08"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png"/></a>
-</div>
- 
+📫 You can reach me at artikov1208@gmail.com
 
-- 📫 You can reach me at artikov1208@gmail.com
+
+<a href="https://facebook.com/artikov08"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" target=_blank/></a>
+<a href="https://linkedin.com/in/artikov"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target=_blank/></a>
+<a href="https://instagram.com/artikxv"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target=_blank/></a>
+<a href="https://twitter.com/artikov08"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" target=_blank/></a>
 
 ---
 
