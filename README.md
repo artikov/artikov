@@ -20,7 +20,7 @@
 
 ## Tech stack
 
-### Programming and Markup
+### Programming & Markup
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -30,7 +30,7 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Frameworks and Libraries
+### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -38,7 +38,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Databases and Cloud hosting
+### Databases & Cloud hosting
 ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,7 +46,7 @@
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### Software and Tools
+### Software & Tools
 
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -58,9 +58,12 @@
 [![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikov&show_icons=true&theme=prussian)](https://github.com/artikov/artikov)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artikov&theme=prussian)](https://github.com/artikov/artikov)
 
-## 🏆 GitHub Trophies
+<details>
+    <summary>🏆 Github Trophies</summary>
 
-![](https://github-profile-trophy.vercel.app/?username=artikov&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=artikov&theme=nord&no-frame=true&no-bg=false&margin-w=6)
+
+</details>
 
 ## Socials
 
