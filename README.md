@@ -34,6 +34,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -55,8 +56,9 @@
 
 ## My GitHub stats
 
-[![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikov&show_icons=true&theme=prussian)](https://github.com/artikov/artikov)
+[![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikov&show_icons=true&theme=prussian&custom_title=My%20Github%20Stats)](https://github.com/artikov/artikov)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artikov&theme=prussian)](https://github.com/artikov/artikov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikov&layout=compact&exclude_repo=data-science&theme=prussian&card_width=445&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
     <summary>🏆 Github Trophies</summary>
