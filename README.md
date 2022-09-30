@@ -69,7 +69,7 @@
 
 ## Socials
 
-📫 You can reach me at artikov1208@gmail.com
+📫 You can reach me at artikov.dev@gmail.com
 
 
 <a href="https://facebook.com/artikov08"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" target="_blank"/></a>
