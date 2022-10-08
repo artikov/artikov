@@ -56,9 +56,9 @@
 
 ## My GitHub stats
 
-[![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikov&show_icons=true&theme=prussian&custom_title=My%20Github%20Stats)](https://github.com/artikov)
+[![Oybek's GitHub stats](https://github-readme-stats-artikov.vercel.app/api?username=artikov&show_icons=true&theme=prussian&custom_title=My%20Github%20Stats)](https://github.com/artikov)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artikov&theme=prussian)](https://github.com/artikov)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artikov&layout=compact&exclude_repo=data-science&hide=css&theme=prussian&card_width=445&langs_count=6)](https://github.com/artikov)
+[![Top Langs](https://github-readme-stats-artikov.vercel.app/api/top-langs/?username=artikov&layout=compact&exclude_repo=data-science&hide=css&theme=prussian&card_width=445&langs_count=6)](https://github.com/artikov)
 
 <details>
     <summary>🏆 Github Trophies</summary>
