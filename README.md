@@ -5,6 +5,7 @@
 - 💻 Working as a Full Stack Developer @ **TechSpot**
 - 👨🏻‍🎓 Graduated from **Westminster International University**
 - 🎓 Major Business Information Systems
+- 🌲 Citizen of IT Park Uzbekistan
   
 - 📚 Currently learning: 
     - Python
