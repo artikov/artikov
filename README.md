@@ -8,7 +8,6 @@
 - 🌲 Citizen of IT Park Community
   
 - 📚 Currently learning: 
-    - Python
     - DevOps Engineering
     - Machine Learning
     
