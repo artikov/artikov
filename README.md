@@ -17,6 +17,8 @@
     - Playing console games
     - Reading non-fiction books
     
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="62177bea-983d-4abf-95fb-e53ac2898b37" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## Tech stack
 
