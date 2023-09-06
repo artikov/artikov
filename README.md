@@ -2,7 +2,7 @@
 ## Software Engineer
 
 - 🌍 Based in Tashkent, Uzbekistan
-- 💻 Working as a Full Stack Developer @ **TechSpot**
+- 💻 Open for new opportunities as a Front End developer
 - 👨🏻‍🎓 Graduated from **Westminster International University**
 - 🎓 Major Business Information Systems
 - 🌲 Citizen of IT Park Community
