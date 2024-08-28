@@ -8,7 +8,7 @@
 - 🌲 Citizen of IT Park Community
   
 - 📚 Currently learning: 
-    - MERN stack
+    - AI
     
 - 🥏 My hobbies:
     - Walking outdoors
